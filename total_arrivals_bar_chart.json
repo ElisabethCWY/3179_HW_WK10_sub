@@ -65,7 +65,7 @@
     "encoding": {
       "text": {
         "condition": {
-          "test": "datum['TotalArrivals'] > 5000000",  
+          "test": "datum['TotalArrivals'] > 500000",  
           "field": "TotalArrivals"  
         },
         "value": "" 
